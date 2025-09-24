@@ -1,0 +1,1 @@
+In this project, I decided to code the original transformer architecture proposed by Ashish Vaswani et al. in NIPS 2017, after coding the architecture I will also train it on Multi gpu for few epochs.
