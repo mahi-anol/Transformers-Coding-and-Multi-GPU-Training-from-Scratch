@@ -1,6 +1,6 @@
 {
-    "enc_max_seq_len": 128,
-    "dec_max_seq_len": 128,
+    "enc_max_seq_len": 484,
+    "dec_max_seq_len": 484,
     "enc_cfg": {
         "emb_dim": 512,
         "no_of_enc_blk": 6,
